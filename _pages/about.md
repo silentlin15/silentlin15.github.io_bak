@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,60 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- 本科毕业于浙江大学竺可桢学院16级混合班（计算机科学与技术专业），保送至浙江大学计算机科学与技术学院，目前正攻读硕士研究生二年级，导师：赵洲副教授；与微软亚洲研究院的谭旭、秦涛和刘铁岩老师，华为云的袁晶老师等人合作过多篇文章。
+- 曾获2021年国家奖学金、腾讯奖学金。
+- 兴趣方向是自然语言处理、语音&歌声合成、机器翻译、唇语识别&合成。
+- 在AAAI、ACL、NeurIPS等国际人工智能顶级会议上发表论文10余篇，其中第一作者7篇（含3篇共一），担任EMNLP、ICML等会议的reviewer。
+- 曾于字节跳动Tik-Tok实习。
+- 曾参与完成微软亚洲研究院的学术合作项目；参与完成华为中央媒体研究院的工程合作项目。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+# Biography
+- I was graduated from Chu Kochen Honors College, Zhejiang University (computer science and technology).
+- Currently I am a second year master's student in the Department of Computer Science and Technology, Zhejiang University, advised by Zhao Zhou. I also  closely collaborate with Xu Tan, Tao Qin and Tie-yan Liu from MSRA, Nicholas Jing Yuan from Huawei Cloud.
+- I won the National Scholarship and Tencent Scholars in 2021.
+- My research interest includes natural language processing, speech & singing synthesis, neural machine translation and lip-reading & lip-generation.
+- I have published 10 papers at the top international AI conferences such as AAAI, ACL, NeuralIPS.
+- I used to be an intern at ByteDance (Tik-Tok).
+- I used to participate in the academic cooperation project of Microsoft Research Asia (MSRA); participate in the engineering cooperation project of Huawei central media research institute.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# Publications
+### 🎙 Speech and Singing Processing
+1. [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446), **Jinglin Liu**, Chengxi Li, Yi Ren, Feiyang Chen, Zhou Zhao \| Zhejiang University \| AAAI 2022
+  - **影响力** 论文开源项目 [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) (包含用于语音合成的DiffSpeech和用于歌声合成的DiffSinger， 发布迄今仅2个月，Github Star 200+，预训练模型下载量500+)，收到来自学术界与业界的广泛关注。在原项目的基础上，[腾讯AiLab](https://arxiv.org/pdf/2201.11972.pdf)成功在中文语音数据集上复现并取得SOTA的音质结果, 也有来自[KAIST](https://github.com/keonlee9420/DiffSinger)的民间代码复现。该篇论文被[AI基地](https://mp.weixin.qq.com/s/KwWB4uDqhaaK9eU9RhY_8w)公众号自来水报道。被华为诺亚实验室，AI Drive & PaperWeekly邀请直播分享。在泛娱乐领域展示出较大的应用价值。
+  - [**Demo**](https://diffsinger.github.io/)
+1. [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166), Yi Ren, **Jinglin Liu**, Zhou Zhao \| Zhejiang University \| NeurIPS 2021
+  - [**Demo**](https://portaspeech.github.io/)
+1. [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), Yi Ren, **Jinglin Liu**, Xu Tan, Chen Zhang, Qin Tao, Zhou Zhao, Tie-Yan Liu \| Zhejiang University & Microsoft Research Asia \| ACL 2020
+1. [Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547), Chen Zhang, Yi Ren, Xu Tan, **Jinglin Liu**, Kejun Zhang, Tao Qin, Sheng Zhao, Tie-Yan Liu \| Zhejiang University & Microsoft Research Asia \| ICASSP 2021
+  - [**Demo**](https://speechresearch.github.io/denoispeech/)
+1. [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://dl.acm.org/doi/abs/10.1145/3474085.3475437), Rongjie Huang, Feiyang Chen, Yi Ren, **Jinglin Liu**, Chenye Cui, Zhou Zhao \| Zhejiang University \| ACM-MM 2021
+  - [**Demo**](https://multi-singer.github.io/)
+1. [EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model](https://arxiv.org/abs/2106.09317), Chenye Cui, Yi Ren, **Jinglin Liu**, Feiyang Chen, Rongjie Huang, Ming Lei and Zhou Zhao \| Zhejiang University \| INTERSPEECH 2021
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### 📚 Machine Translation 
+1. [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://www.ijcai.org/Proceedings/2020/0534.pdf), **Jinglin Liu**, Yi Ren, Xu Tan, Chen Zhang, Tao Qin, Zhou Zhao and Tie-Yan Liu \| Zhejiang University & Microsoft Research Asia  \| IJCAI 2020
+1. [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), Yi Ren, **Jinglin Liu**, Xu Tan, Chen Zhang, Qin Tao, Zhou Zhao, Tie-Yan Liu \| Zhejiang University & Microsoft Research Asia \| ACL 2020
+1. [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), Yi Ren, **Jinglin Liu**, Xu Tan, Zhou Zhao, Sheng Zhao, Tie-Yan Liu \| Zhejiang University & Microsoft Research Asia \| ACL 2020
 
-**Markdown generator**
+### 💬 Lip Movement Reading/Generation & ASR & Sign Language
+1. [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), **Jinglin Liu**, Zhiying Zhu, Yi Ren, Wencan Huang, Baoxing Huai, Nicholas Yuan, Zhou Zhao \| Zhejiang University & Huawei Cloud \| AAAI 2022
+1. [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, Zhou Zhao, Chen Zhang, Baoxing Huai, Jing Yuan \| Zhejiang University & Huawei Cloud \| ACM-MM 2020 
+1. [SimulLR: Simultaneous Lip Reading Transducer with Attention-Guided Adaptive Memory](https://dl.acm.org/doi/abs/10.1145/3474085.3475220), Zhijie Lin, Zhou Zhao, Haoyuan Li, **Jinglin Liu**, Meng Zhang, Xingshan Zeng, Xiaofei He \| Zhejiang University & Huawei Noah's Ark Lab \| ACM-MM 2021
+1. [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), Yi Ren, **Jinglin Liu**, Xu Tan, Zhou Zhao, Sheng Zhao, Tie-Yan Liu \| Zhejiang University & Microsoft Research Asia \| ACL 2020
+1. [SimulSLT: End-to-End Simultaneous Sign Language Translation](https://dl.acm.org/doi/abs/10.1145/3474085.3475544), Aoxiong Yin, Zhou Zhao, **Jinglin Liu**, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He \| Zhejiang University & Huawei Noah's Ark Lab \| ACM-MM 2021
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+# Honors and Awards
+- National Scholarship (Top 1%)
+- Tencent Scholarship (Top 1%)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+# Educations
+- *2020.09 - 2022.02 (now)* Master, Zhejiang Univeristy, Hangzhou.
+- *2016.09 - 2020.06* Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+# Internships
+- *2020.06 - 2020.09* ByteDance, Shanghai.
+- *2020.03 - 2020.06* YiWise, Hangzhou.
