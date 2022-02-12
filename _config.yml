@@ -11,9 +11,9 @@ title                    : "Jinglin Liu (刘静林)"
 title_separator          : "-"
 name                     : &name "Jinglin Liu (刘静林)"
 description              : &description "personal description"
-url                      : ""
+url                      : "https://silentlin15.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "silentlin15/silentlin15.github.io"
+repository               : "silentlin15.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
