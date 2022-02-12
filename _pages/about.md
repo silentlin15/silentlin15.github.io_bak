@@ -47,7 +47,7 @@ redirect_from:
 
 ### 💬 Lip Movement Reading/Generation & ASR & Sign Language
 1. [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), **Jinglin Liu**, Zhiying Zhu, Yi Ren, Wencan Huang, Baoxing Huai, Nicholas Yuan, Zhou Zhao \| Zhejiang University & Huawei Cloud \| AAAI 2022
-1. [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, Zhou Zhao, Chen Zhang, Baoxing Huai, Jing Yuan \| Zhejiang University & Huawei Cloud \| ACM-MM 2020 
+1. [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), **Jinglin Liu**, Yi Ren, Zhou Zhao, Chen Zhang, Baoxing Huai, Jing Yuan \| Zhejiang University & Huawei Cloud \| ACM-MM 2020 
 1. [SimulLR: Simultaneous Lip Reading Transducer with Attention-Guided Adaptive Memory](https://dl.acm.org/doi/abs/10.1145/3474085.3475220), Zhijie Lin, Zhou Zhao, Haoyuan Li, **Jinglin Liu**, Meng Zhang, Xingshan Zeng, Xiaofei He \| Zhejiang University & Huawei Noah's Ark Lab \| ACM-MM 2021
 1. [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), Yi Ren, **Jinglin Liu**, Xu Tan, Zhou Zhao, Sheng Zhao, Tie-Yan Liu \| Zhejiang University & Microsoft Research Asia \| ACL 2020
 1. [SimulSLT: End-to-End Simultaneous Sign Language Translation](https://dl.acm.org/doi/abs/10.1145/3474085.3475544), Aoxiong Yin, Zhou Zhao, **Jinglin Liu**, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He \| Zhejiang University & Huawei Noah's Ark Lab \| ACM-MM 2021
