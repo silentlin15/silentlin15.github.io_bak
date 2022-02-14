@@ -21,14 +21,14 @@ redirect_from:
 - Currently I am a second year master's student in the Department of Computer Science and Technology, Zhejiang University, advised by Zhao Zhou. I also  closely collaborate with Xu Tan, Tao Qin and Tie-yan Liu from MSRA, Nicholas Jing Yuan from Huawei Cloud.
 - I won the National Scholarship and Tencent Scholars in 2021.
 - My research interest includes natural language processing, speech & singing synthesis, neural machine translation and lip-reading & lip-generation.
-- I have published 10 papers at the top international AI conferences such as AAAI, ACL, NeuralIPS.
+- I have published 10 papers at the top international AI conferences such as AAAI, ACL, NeurIPS. I used to be a reviewer in EMNLP and ICML.
 - I used to be an intern at ByteDance (Tik-Tok).
 - I used to participate in the academic cooperation project of Microsoft Research Asia (MSRA); participate in the engineering cooperation project of Huawei central media research institute.
 
 # Publications
 ### 🎙 Speech and Singing Processing
 1. [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446), **Jinglin Liu**, Chengxi Li, Yi Ren, Feiyang Chen, Zhou Zhao \| Zhejiang University \| AAAI 2022
-  - **影响力** 论文开源项目 [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) (包含用于语音合成的DiffSpeech和用于歌声合成的DiffSinger， 发布迄今仅2个月，Github Star 200+，预训练模型下载量500+)，收到来自学术界与业界的广泛关注。在原项目的基础上，[腾讯AiLab](https://arxiv.org/pdf/2201.11972.pdf)成功在中文语音数据集上复现并取得SOTA的音质结果, 也有来自[KAIST](https://github.com/keonlee9420/DiffSinger)的民间代码复现。该篇论文被[AI基地](https://mp.weixin.qq.com/s/KwWB4uDqhaaK9eU9RhY_8w)公众号自来水报道。被华为诺亚实验室，AI Drive & PaperWeekly邀请直播分享。在泛娱乐领域展示出较大的应用价值。
+  - **影响力** 论文开源项目 [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) (包含用于语音合成的DiffSpeech和用于歌声合成的DiffSinger， 发布迄今仅2个月，Github Star 200+，预训练模型下载量500+)，收到来自学术界与工业界的广泛关注。在原项目的基础上，[腾讯AiLab](https://arxiv.org/pdf/2201.11972.pdf)成功在中文语音数据集上复现并取得SOTA的音质结果, 也有来自[KAIST](https://github.com/keonlee9420/DiffSinger)的民间代码复现。该篇论文被[语音之家](https://mp.weixin.qq.com/s/aRvY08SLXXj4ql8aHf3_Lw)，[AI基地](https://mp.weixin.qq.com/s/KwWB4uDqhaaK9eU9RhY_8w)等公众号报道。被华为诺亚实验室，AI Drive & PaperWeekly邀请直播分享。在泛娱乐领域展示出较大的应用价值。
   - [**Demo**](https://diffsinger.github.io/)
 1. [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166), Yi Ren, **Jinglin Liu**, Zhou Zhao \| Zhejiang University \| NeurIPS 2021
   - [**Demo**](https://portaspeech.github.io/)
