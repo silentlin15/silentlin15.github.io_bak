@@ -32,7 +32,6 @@ redirect_from:
   - [**Demo**](https://diffsinger.github.io/) \| [Project](https://github.com/MoonInTheRiver/DiffSinger)
 1. [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166), Yi Ren, **Jinglin Liu**, Zhou Zhao \| Zhejiang University \| NeurIPS 2021, CCF-A
   - **影响力** 该论文与上篇论文中的DiffSpeech一同集成在[NATSpeech](https://github.com/NATSpeech/NATSpeech)中，发布迄今 Github Star ![Github Stars](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social)，同样收到来自学术界与工业界的广泛关注。
-
   - [**Demo**](https://portaspeech.github.io/) \| [Project](https://github.com/NATSpeech/NATSpeech)
 1. [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), Yi Ren, **Jinglin Liu**, Xu Tan, Chen Zhang, Qin Tao, Zhou Zhao, Tie-Yan Liu \| Zhejiang University & Microsoft Research Asia \| ACL 2020, CCF-A
 1. [Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547), Chen Zhang, Yi Ren, Xu Tan, **Jinglin Liu**, Kejun Zhang, Tao Qin, Sheng Zhao, Tie-Yan Liu \| Zhejiang University & Microsoft Research Asia \| ICASSP 2021, CCF-B
