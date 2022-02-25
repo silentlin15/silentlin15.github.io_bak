@@ -12,7 +12,7 @@ redirect_from:
 - 本科毕业于浙江大学竺可桢学院16级混合班（计算机科学与技术专业），保送至浙江大学计算机科学与技术学院，目前正攻读硕士研究生二年级，预计23年3月毕业，导师：赵洲副教授；与微软亚洲研究院的谭旭、秦涛和刘铁岩老师，华为云的袁晶老师等人合作过多篇文章。
 - 曾获2021年国家奖学金、腾讯奖学金。
 - 兴趣方向是自然语言处理、语音&歌声合成、机器翻译、唇语识别&合成。
-- 在AAAI、ACL、NeurIPS等国际人工智能顶级会议上发表论文10余篇（CCF-A），其中第一作者7篇（含3篇共一），担任EMNLP、ICML等会议的reviewer。
+- 在AAAI、ACL、NeurIPS等国际人工智能顶级会议上发表论文10余篇（CCF-A），其中第一作者8篇（含3篇共一），担任EMNLP、ICML等会议的reviewer。
 - 曾于字节跳动Tik-Tok实习。
 - 曾参与完成微软亚洲研究院的学术合作项目；参与完成华为中央媒体研究院的工程合作项目。
 - 我的开源项目：[NATSpeech](https://github.com/NATSpeech/NATSpeech) ![Github Stars](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social) ; [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) ![GitHub Stars](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social) .
@@ -37,6 +37,8 @@ redirect_from:
 1. [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166), Yi Ren, **Jinglin Liu**, Zhou Zhao \| Zhejiang University \| NeurIPS 2021, CCF-A
   - [**Demo**](https://portaspeech.github.io/) \| [Project](https://github.com/NATSpeech/NATSpeech)
   - **影响力:** 该论文与上篇论文中的DiffSpeech一同集成在 [NATSpeech](https://github.com/NATSpeech/NATSpeech)。发布迄今Github Star ![Github Stars](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social)，被[语音杂谈](https://mp.weixin.qq.com/s/9QIpbsrjXP_jV3a2NUW30A)，[语音之家](https://mp.weixin.qq.com/s/JmQqtcaqlXF86jeoGgGEiQ)等公众号报道，登上 Github [Daily Trending List](https://github.motakasoft.com/trending/?d=2022-02-19&l=all) on 19 Feb 2022，Python [Trending](https://twitter.com/pythontrending/status/1493896581480960002)，登上[Hacker News](https://news.ycombinator.com/item?id=30369968)首页，引起海内外强烈关注。
+1. [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://neuralsvb.github.io/), **Jinglin Liu**, Chengxi Li, Yi Ren, Zhiying Zhu, Zhou Zhao \| Zhejiang University \| ACL 2022, CCF-A
+  - [**Demo**](https://neuralsvb.github.io/)
 1. [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), Yi Ren, **Jinglin Liu**, Xu Tan, Chen Zhang, Qin Tao, Zhou Zhao, Tie-Yan Liu \| Zhejiang University & Microsoft Research Asia \| ACL 2020, CCF-A
 1. [Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547), Chen Zhang, Yi Ren, Xu Tan, **Jinglin Liu**, Kejun Zhang, Tao Qin, Sheng Zhao, Tie-Yan Liu \| Zhejiang University & Microsoft Research Asia \| ICASSP 2021, CCF-B
   - [**Demo**](https://speechresearch.github.io/denoispeech/)
