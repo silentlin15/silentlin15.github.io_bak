@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-- 本科毕业于浙江大学竺可桢学院16级混合班（计算机科学与技术专业），保送至浙江大学计算机科学与技术学院，目前正攻读硕士研究生二年级，预计23年3月毕业，导师：赵洲副教授；与微软亚洲研究院的谭旭、秦涛和刘铁岩老师，华为云的袁晶老师等人合作过多篇文章。
+- 本科毕业于浙江大学竺可桢学院16级混合班（计算机科学与技术专业），保送至浙江大学计算机科学与技术学院，目前正攻读硕士研究生三年级，预计23年3月毕业，导师：赵洲副教授；与微软亚洲研究院的谭旭、秦涛和刘铁岩老师，华为云的袁晶老师等人合作过多篇文章。
 - 曾获2021年国家奖学金、腾讯奖学金。
 - 兴趣方向是自然语言处理、语音&歌声合成、机器翻译、唇语识别&合成。
 - 在AAAI、ACL、NeurIPS等国际人工智能顶级会议上发表论文10余篇（CCF-A），其中第一作者8篇（含3篇共一），担任EMNLP、ICML等会议的reviewer。
@@ -19,7 +19,7 @@ redirect_from:
 
 # Biography
 - I was graduated from Chu Kochen Honors College, Zhejiang University (computer science and technology).
-- Currently I am a second year master's student in the Department of Computer Science and Technology, Zhejiang University, advised by Zhao Zhou. I also  closely collaborate with Xu Tan, Tao Qin and Tie-yan Liu from MSRA, Nicholas Jing Yuan from Huawei Cloud.
+- Currently I am a third year master's student in the Department of Computer Science and Technology, Zhejiang University, advised by Zhao Zhou. I also  closely collaborate with Xu Tan, Tao Qin and Tie-yan Liu from MSRA, Nicholas Jing Yuan from Huawei Cloud.
 - I won the National Scholarship and Tencent Scholars in 2021.
 - My research interest includes natural language processing, speech & singing synthesis, neural machine translation and lip-reading & lip-generation.
 - I have published 10 papers at the top international AI conferences such as AAAI, ACL, NeurIPS. I used to be a reviewer in EMNLP and ICML.
@@ -65,10 +65,11 @@ redirect_from:
 - Tencent Scholarship (Top 1%)
 
 # Educations
-- *2020.09 - 2022.02 (now)* Master, Zhejiang Univeristy, Hangzhou.
+- *2020.09 - now* Master, Zhejiang Univeristy, Hangzhou.
 - *2016.09 - 2020.06* Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
 
 
 # Internships
-- *2020.06 - 2020.09* ByteDance, Shanghai.
-- *2020.03 - 2020.06* YiWise, Hangzhou.
+- *2022.07 - now* Alibaba, DAMO Academy, Hangzhou.
+- *2021.06 - 2021.09* ByteDance, Tik Tok, Shanghai.
+- *2020.03 - 2020.06* YiWise, ZJU-YiWise Joint Lab, Hangzhou.
